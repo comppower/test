@@ -12,9 +12,10 @@ public class Main {
 		//double checking
 		toaster.b=6;
 		//ay lmao
-		//new
+		//secondary test
 
 
+	}
 	}
 
 }
