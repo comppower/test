@@ -11,6 +11,7 @@ public class Main {
 		// I don't even understand
 		//double checking
 		toaster.b=6;
+		//ay lmao
 
 
 	}
