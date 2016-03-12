@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("This is a");
 		temp test = new temp();
 		System.out.println(test.a);
+		System.out.println("help me lukiwan");
 
 
 	}
