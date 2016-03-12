@@ -5,10 +5,12 @@ public class Main {
 	{
 		System.out.println("This is a");
 		temp test = new temp();
+		Toaster toaster = new Toaster();
 		System.out.println(test.a);
 		System.out.println("help me lukiwan");
 		// I don't even understand
 		//double checking
+		toaster.b=6;
 
 
 	}
