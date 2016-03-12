@@ -7,6 +7,7 @@ public class Main {
 		temp test = new temp();
 		System.out.println(test.a);
 		System.out.println("help me lukiwan");
+		// I don't even understand
 
 
 	}
